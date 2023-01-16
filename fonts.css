@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("./fonts/montserrat.regular.ttf") format(".ttf") 
+  }
+  @font-face {
+    font-family: "DM Sans";
+    src: url('./fonts/DMSans-Bold.ttf') format(".ttf") 
+  }
