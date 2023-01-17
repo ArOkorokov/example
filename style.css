@@ -963,3 +963,6 @@ span {
         display: none;
     }
 }
+* {
+    padding: 0;
+}
